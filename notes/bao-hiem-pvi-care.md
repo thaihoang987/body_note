@@ -114,3 +114,72 @@ Vật lý trị liệu, khám thai và răng đều trừ vào 7,5 triệu ngo�
 ## Ghi chú về tài liệu
 - Bản scan quy tắc thiếu trang 30. Có thể thiếu một phần quyền lợi nằm viện (giữa mục c "Điều trị cấp cứu" và d "Vận chuyển cấp cứu").
 - Không có Phụ lục 1 (bảng tỷ lệ trả tiền thương tật) và phần bảo lãnh viện phí.
+
+## Trường hợp của tôi: vẹo vách ngăn mũi + viêm xoang mạn (J32.8)
+
+### Có được bảo hiểm không?
+Có thể được. Quy tắc liệt kê "vẹo vách ngăn cần phẫu thuật" là bệnh có sẵn (định nghĩa 22, tr. 19), nghĩa là được chi trả sau thời gian chờ, không bị coi là thẩm mỹ. Viêm xoang là bệnh đặc biệt (định nghĩa 21), cũng chờ 365 ngày.
+
+Điều kiện:
+1. Đã tham gia đủ 365 ngày (tính nối tiếp nếu tái tục liên tục), hoặc công ty mua cho từ 50 nhân viên trở lên (nhân viên được miễn chờ).
+2. Chưa có chỉ định mổ trước ngày bắt đầu bảo hiểm (loại trừ 25).
+3. Mổ để chữa bệnh (thở, viêm xoang), không kèm nâng mũi / sửa dáng mũi (loại trừ 21).
+4. Hồ sơ không ghi là bẩm sinh (loại trừ 19, mã nhóm Q).
+
+Nếu vẹo do tai nạn xảy ra trong thời hạn bảo hiểm thì dùng hạn mức tai nạn 30 triệu, không phải chờ.
+
+### Nếu đủ điều kiện, được trả
+| Khoản | Hạn mức |
+|---|---|
+| Phẫu thuật (nội trú / trong ngày) | tối đa 50.000.000 (chung hạn mức nội trú/năm) |
+| Tiền giường | 2.500.000/ngày |
+| Khám, xét nghiệm 30 ngày trước nhập viện | 2.500.000 |
+| Tái khám, thuốc 30 ngày sau xuất viện | 2.500.000 |
+| Trợ cấp nằm viện | 50.000/ngày |
+| Khám / nội soi / thuốc ngoại trú cho viêm xoang | trong ngoại trú 7.500.000/năm, tối đa 2.250.000/lần |
+
+### Mã bệnh (ICD-10)
+| Mã | Ý nghĩa | Ảnh hưởng |
+|---|---|---|
+| J34.2 | Vẹo vách ngăn (mắc phải) | Tốt, mã thường dùng cho người lớn |
+| J32.8 | Viêm xoang mạn tính khác | Tốt: bệnh mắc phải, chứng minh mổ vì bệnh. Nhưng là bệnh đặc biệt, chờ 365 ngày |
+| J34.3 | Quá phát cuốn mũi (nếu có) | Bổ sung lý do chức năng |
+| Q67.4 / nhóm Q | Dị dạng bẩm sinh | Bị loại trừ (loại trừ 19), cần tránh nếu không đúng |
+
+"Mạn tính" nghĩa là đã kéo dài trên 12 tuần. PVI có thể hỏi thời điểm bắt đầu: nếu đã có triệu chứng / chẩn đoán trước ngày bắt đầu bảo hiểm thì là bệnh có sẵn.
+
+### Tránh bị cho là thẩm mỹ / bẩm sinh
+- Khám và mổ ở khoa Tai Mũi Họng của bệnh viện, không mổ ở cơ sở thẩm mỹ.
+- Hồ sơ ghi đủ mã J34.2 + J32.8, có nội soi mũi xoang và CT xoang.
+- Chỉ định phẫu thuật ghi rõ lý do: tắc nghẽn đường thở, viêm xoang tái phát, điều trị nội khoa không hiệu quả.
+- Không làm kèm nâng mũi; nếu làm thì tách riêng hóa đơn.
+- Kể bệnh sử đúng sự thật: có va đập mũi thì kể, không có thì không bịa. Tránh nói chung chung "bị từ nhỏ tới giờ" nếu không nhớ rõ.
+- Kiểm tra mã bệnh trên đơn thuốc / giấy ra viện. Nếu thấy mã Q mà không đúng, hỏi bác sĩ.
+
+Không khai triệu chứng không có, không nhờ bác sĩ ghi sai: đó là gian lận, PVI có quyền từ chối và chấm dứt hợp đồng (Mục 16, tr. 28).
+
+### Triệu chứng nên kể với bác sĩ (nếu thực sự có)
+- Nghẹt mũi bên nào, kéo dài bao lâu, thường xuyên hay liên tục
+- Thở bằng miệng khi ngủ, khô miệng / đau họng buổi sáng, ngáy, ngủ không sâu
+- Khó thở khi tập thể dục
+- Chảy dịch mũi đặc / có màu, chảy dịch xuống họng
+- Đau / nặng vùng trán, gò má, đau đầu; giảm ngửi
+- Viêm xoang tái phát mấy lần/năm
+- Đã điều trị nội khoa gì (xịt corticoid, rửa mũi, kháng sinh), bao lâu, kết quả
+
+Mẫu câu:
+> "Em bị nghẹt mũi [bên nào] khoảng [bao lâu], ngủ phải thở miệng, hay ngáy. Mỗi năm viêm xoang [mấy] lần, chảy dịch xuống họng, đau vùng [trán/má]. Em đã [xịt/uống thuốc gì] trong [bao lâu] nhưng không đỡ. Em muốn điều trị cho thở được và hết viêm xoang. Em có bảo hiểm sức khỏe, nhờ bác sĩ ghi đầy đủ chẩn đoán và lý do chỉ định mổ giúp em để làm hồ sơ bồi thường."
+
+### Nếu bị từ chối
+1. Yêu cầu PVI giải thích lý do bằng văn bản (Mục 14b, tr. 27).
+2. Xin bác sĩ phẫu thuật xác nhận chẩn đoán mắc phải (J34.2), mục đích chức năng.
+3. Lập luận: quy tắc tự liệt kê "vẹo vách ngăn cần phẫu thuật" là bệnh có sẵn, tức là được chi trả sau 365 ngày. Điều khoản mâu thuẫn thì giải thích theo hướng có lợi cho người được bảo hiểm.
+4. Khiếu nại qua HR (chủ hợp đồng), sau đó Cục Quản lý, giám sát bảo hiểm (Bộ Tài chính). Thời hiệu khởi kiện 3 năm.
+
+### Việc cần làm
+- [ ] Hỏi HR: ngày bắt đầu tham gia, có tái tục liên tục không, công ty mua cho bao nhiêu người
+- [ ] Xác định ngày chẩn đoán đầu tiên (trước hay sau ngày bắt đầu bảo hiểm)
+- [ ] Khám Tai Mũi Họng, kể bệnh sử đúng và đủ; nội soi + CT xoang
+- [ ] Kiểm tra mã bệnh: J34.2 + J32.8, không phải mã Q
+- [ ] Chọn bệnh viện có bảo lãnh viện phí PVI, hoặc gọi 1900 54 54 58 xin xác nhận bằng email trước khi mổ
+- [ ] Giữ toàn bộ hồ sơ, hóa đơn VAT, bảng kê chi phí
